@@ -1,6 +1,6 @@
 {
   "name": "advanced-repeat-string",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple utility library to repeat a string a given number of times with options for delimiter and padding. ",
   "main": "repeatString.js",
   "scripts": {
