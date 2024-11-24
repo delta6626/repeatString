@@ -1,0 +1,29 @@
+{
+  "name": "repeatstring",
+  "version": "1.0.0",
+  "description": "A simple utility library to repeat a string a given number of times with options for delimiter and padding. ",
+  "main": "repeatString.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delta6626/repeatString.git"
+  },
+  "keywords": [
+    "utility",
+    "string",
+    "repition",
+    "padding",
+    "delimiter"
+  ],
+  "author": "Delta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/delta6626/repeatString/issues"
+  },
+  "homepage": "https://github.com/delta6626/repeatString#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

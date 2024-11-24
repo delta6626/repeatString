@@ -10,7 +10,7 @@
 
 function repeatString(str, count = 0, delimiter = '', padding = '') {
 
-    if(typeof str != "string" || typeof count != "number" || count <= 0){
+    if(typeof str != "string" || typeof count != "number" || count <= 0 || str.length == 0){
         return '';
     }
     
@@ -31,3 +31,5 @@ function repeatString(str, count = 0, delimiter = '', padding = '') {
     return result;
 
 }
+
+module.exports = repeatString;
