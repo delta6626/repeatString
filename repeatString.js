@@ -1,5 +1,5 @@
 /**
- * Repeats a string a given number of times with options for delimiter, truncation, and padding.
+ * Repeats a string a given number of times with options for delimiter and padding.
  *
  * @param {string} str - The string to repeat.
  * @param {number} [count = 0] - The number of repetitions.
